@@ -172,15 +172,6 @@ ATLAS represents a production-ready risk analysis system suitable for institutio
 The system's modular design allows for easy extension and customization, while its focus on reliability and accuracy makes it suitable for mission-critical applications in financial risk management.
 
 
-
-
-
-## 🛠 Built With
-
-- [Swarms Framework](https://github.com/kyegomez/swarms)
-- Python 3.10+
-- GROQ API Key or you can change it to use any model from [Swarm Models](https://github.com/The-Swarm-Corporation/swarm-models)
-
 ## 📬 Contact
 
 Questions? Reach out:
@@ -196,5 +187,3 @@ Questions? Reach out:
 ---
 
 ⭐ Star us on GitHub if this project helped you!
-
-Built with ♥ using [Swarms Framework](https://github.com/kyegomez/swarms)
