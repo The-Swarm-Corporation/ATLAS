@@ -1,13 +1,12 @@
 
-# Swarms-Example-1-Click-Template
+# ATLAS: Advanced Time-series Learning and Analysis System
+
 
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/agora-999382051935506503) [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kyegomez3242) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kye-g-38759a207/) [![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kyegomezb)
 
 
 [![GitHub stars](https://img.shields.io/github/stars/The-Swarm-Corporation/Legal-Swarm-Template?style=social)](https://github.com/The-Swarm-Corporation/Legal-Swarm-Template)
 [![Swarms Framework](https://img.shields.io/badge/Built%20with-Swarms-blue)](https://github.com/kyegomez/swarms)
-
-# ATLAS: Advanced Time-series Learning and Analysis System
 
 ATLAS is a sophisticated real-time risk analysis system designed for institutional-grade market risk assessment. Built with high-frequency trading (HFT) capabilities and advanced machine learning techniques, ATLAS provides continuous volatility predictions and risk metrics using both historical patterns and real-time market data.
 
