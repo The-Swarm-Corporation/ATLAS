@@ -70,24 +70,8 @@
 ### III. Implementation Strategy
 
 #### A. Deployment Architecture
-1. Core Components
-   ```
-   /atlas
-   ├── data/
-   │   ├── fetcher.py
-   │   └── processor.py
-   ├── models/
-   │   ├── ensemble.py
-   │   └── predictors.py
-   ├── features/
-   │   ├── engineering.py
-   │   └── indicators.py
-   └── monitoring/
-       ├── performance.py
-       └── alerts.py
-   ```
 
-2. System Requirements
+1. System Requirements
    - CPU: Multi-core processor (8+ cores recommended)
    - RAM: 32GB minimum for multi-asset deployment
    - Storage: SSD with 500GB+ for historical data
